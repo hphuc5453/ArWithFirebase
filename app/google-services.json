@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130966030967",
+    "project_id": "model3d-d0505",
+    "storage_bucket": "model3d-d0505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130966030967:android:bdf5ef78d651871f311472",
+        "android_client_info": {
+          "package_name": "hphuc.model3dwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130966030967-3723r96suvnkt21balnfuvugca0jd4gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hphuc.model3dwithfirebase",
+            "certificate_hash": "da9c48ffab028e12d773826b64ee4dd805170cf3"
+          }
+        },
+        {
+          "client_id": "130966030967-19dpkl6pb551trpcj91ol053vdnui36b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-CfEQtwUl7H4QEyBOTP-EQ22BVczj1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130966030967-19dpkl6pb551trpcj91ol053vdnui36b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
